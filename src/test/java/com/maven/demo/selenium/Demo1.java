@@ -24,6 +24,13 @@ public class Demo1 {
 		Assert.assertEquals(10, a-b);	
 	}
 	
-	
+	@Test
+	public void demo1mul()
+	{
+		System.out.println("total sub on demo1 sub");
+		int a=20;
+		int b=10;
+		Assert.assertEquals(200, a*b);	
+	}
 	
 }
