@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="11654" started-at="2021-07-06T08:21:28 IST" finished-at="2021-07-06T08:21:40 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="11654" started-at="2021-07-06T08:21:28 IST" finished-at="2021-07-06T08:21:40 IST">
+      <class name="com.maven.demo.selenium.Demo3chromebrowser">
+        <test-method status="PASS" signature="chromebrowser()[pri:0, instance:com.maven.demo.selenium.Demo3chromebrowser@71bbf57e]" name="chromebrowser" duration-ms="11590" started-at="2021-07-06T08:21:28 IST" finished-at="2021-07-06T08:21:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromebrowser -->
+      </class> <!-- com.maven.demo.selenium.Demo3chromebrowser -->
+      <class name="com.maven.demo.selenium.Demo2">
+        <test-method status="PASS" signature="demo1div()[pri:0, instance:com.maven.demo.selenium.Demo2@5a1c0542]" name="demo1div" duration-ms="4" started-at="2021-07-06T08:21:40 IST" finished-at="2021-07-06T08:21:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo1div -->
+        <test-method status="PASS" signature="demo1mul()[pri:0, instance:com.maven.demo.selenium.Demo2@5a1c0542]" name="demo1mul" duration-ms="1" started-at="2021-07-06T08:21:40 IST" finished-at="2021-07-06T08:21:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo1mul -->
+      </class> <!-- com.maven.demo.selenium.Demo2 -->
+      <class name="com.maven.demo.selenium.Demo1">
+        <test-method status="PASS" signature="demo1add()[pri:0, instance:com.maven.demo.selenium.Demo1@396f6598]" name="demo1add" duration-ms="1" started-at="2021-07-06T08:21:40 IST" finished-at="2021-07-06T08:21:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo1add -->
+        <test-method status="PASS" signature="demo1sub()[pri:0, instance:com.maven.demo.selenium.Demo1@396f6598]" name="demo1sub" duration-ms="0" started-at="2021-07-06T08:21:40 IST" finished-at="2021-07-06T08:21:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo1sub -->
+      </class> <!-- com.maven.demo.selenium.Demo1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
